@@ -1,5 +1,3 @@
-
-```markdown
 # Animal Trading Card Project
 
 This project demonstrates my web development skills by re-creating a webpage from a design prototype. The goal was to translate a given design into an actual, functional website using HTML and CSS.
