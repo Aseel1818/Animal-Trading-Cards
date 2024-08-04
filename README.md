@@ -34,7 +34,7 @@ In this project, I created an animal trading card featuring a cat, inspired by a
 
 ## Screenshot
 
-![Animal Trading Card](path_to_screenshot_image)
+![Animal Trading Card](ScreenShot.png)
 
 ## Technologies Used
 
