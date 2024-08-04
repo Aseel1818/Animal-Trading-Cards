@@ -21,11 +21,11 @@ In this project, I created an animal trading card featuring a cat, inspired by a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Aseel1818/animal-trading-card.git
+    git clone https://github.com/Aseel1818/Animal-Trading-Cards.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd animal-trading-card
+    cd Animal-Trading-Cards
     ```
 3. Open `index.html` in your web browser to view the trading card.
 
