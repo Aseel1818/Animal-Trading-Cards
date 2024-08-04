@@ -25,6 +25,9 @@ In this project, I created an animal trading card featuring a cat, inspired by a
     ```
 2. Navigate to the project directory:
     ```bash
+    cd Animal-Trading-Cards
+    ```
+    ```bash
     cd animal-trading-card
     ```
 3. Open `index.html` in your web browser to view the trading card.
